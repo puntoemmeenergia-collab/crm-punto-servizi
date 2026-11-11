@@ -1,0 +1,3 @@
+# CRM privato: nessun motore di ricerca deve indicizzarlo
+User-agent: *
+Disallow: /
